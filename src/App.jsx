@@ -3,10 +3,10 @@ import './App.css'
 import Achievements from './components/Achievements'
 import Education from './components/Education'
 import Header from './components/Header'
-import Internship from './components/Internship'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
 import Summary from './components/Summary'
+import Training from './components/Training'
 
 function App() {
 
@@ -16,7 +16,7 @@ function App() {
     <Summary/>
     <Skills/>
     <Education/>
-    <Internship/>
+    <Training/>
     <Projects/>
     <Achievements/>
     </>
