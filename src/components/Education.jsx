@@ -1,4 +1,3 @@
-import React from "react";
 
 const Education = () => {
   return (
@@ -8,7 +7,6 @@ const Education = () => {
           Education
         </h2>
         <div className="space-y-4 text-gray-700 text-base md:text-lg">
-          {/* B.Tech */}
           <div>
             <h3 className="font-semibold text-gray-800">
               B.Tech in Information Technology
@@ -17,7 +15,6 @@ const Education = () => {
             <p>CGPA: 8.18</p>
           </div>
 
-          {/* 12th */}
           <div>
             <h3 className="font-semibold text-gray-800">
               12th — Gobardhanpur Pramathanath Vidyayatan (2018–2020)
@@ -25,7 +22,6 @@ const Education = () => {
             <p>Percentage: 84.20%</p>
           </div>
 
-          {/* 10th */}
           <div>
             <h3 className="font-semibold text-gray-800">
               10th — Gobardhanpur Pramathanath Vidyayatan (2017–2018)

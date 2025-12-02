@@ -1,4 +1,3 @@
-import React from "react";
 
 const Internship = () => {
   return (
@@ -9,7 +8,6 @@ const Internship = () => {
         </h2>
 
         <div className="space-y-4 text-gray-700 text-base md:text-lg">
-          {/* IDEAS Internship */}
           <div>
             <h3 className="font-semibold text-gray-800">
               Data Science Intern — IDEAS (ISI Kolkata), Jul 2024 – Oct 2024

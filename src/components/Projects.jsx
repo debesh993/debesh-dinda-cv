@@ -1,4 +1,3 @@
-import React from "react";
 
 const Projects = () => {
   return (
@@ -9,10 +8,9 @@ const Projects = () => {
         </h2>
 
         <div className="space-y-6 text-gray-700 text-base md:text-lg">
-          {/* Employee Management System */}
           <div>
             <h3 className="font-semibold text-gray-800">
-              Employee Management System (May 2024 – Aug 2024)
+              Employee Management System (May 2024 – oct 2024)
             </h3>
             <p className="mt-1">Tech Stack: React, Node.js, Express, MongoDB, REST APIs</p>
             <ul className="list-disc list-inside mt-2">
@@ -24,7 +22,6 @@ const Projects = () => {
             </p>
           </div>
 
-          {/* American Sign Language Detection System */}
           <div>
             <h3 className="font-semibold text-gray-800">
               American Sign Language Detection System (Jan 2025 – Jun 2025)
