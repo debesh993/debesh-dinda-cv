@@ -1,0 +1,32 @@
+# Node dependencies
+/node_modules
+
+# Production build
+/dist
+
+# Local environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# SSL / Certificates
+*.pem
+*.key
+
+# Misc
+*.log
