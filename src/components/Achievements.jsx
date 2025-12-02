@@ -10,7 +10,8 @@ const Achievements = () => {
         <ul className="list-disc list-inside text-gray-700 text-base md:text-lg space-y-2">
           <li>Secured highest marks in 10th Standard at Gobardhanpur Pramathanath Vidyayatan (2018)</li>
           <li>Completed Full-Stack Development Course including React, Node.js, MongoDB, and SQL</li>
-          <li>Implemented Data Ingestion using NPCYF during Data Science Internship at IDEAS (ISI Kolkata)</li>
+          <li>Learned to collaborate using Git, GitHub, code reviews, and structured development workflows.
+            Built strong debugging, problem-solving, and deployment skills using modern development tools.</li>
           <li>Built multiple professional projects showcasing React, Node.js, Express,Mongodb skills</li>
         </ul>
       </div>
